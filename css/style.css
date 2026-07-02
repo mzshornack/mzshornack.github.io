@@ -17,7 +17,8 @@ body {
 .menu, .article-meta, footer { text-align: center; }
 .title { font-size: 1.1em; }
 footer a { text-decoration: none; }
-hr {
+hr { 
+  /* adjusts color of the border line between sections */
   border-style: dashed;
   color: #ddd;
 }
